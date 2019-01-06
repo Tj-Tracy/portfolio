@@ -1,0 +1,21 @@
+.Heading {
+  width: 100%;
+  padding-top: 25px;
+  height: auto;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+
+  .title {
+    font-size: 70px;
+    margin-bottom: -11px;
+    font-style: italic;
+  }
+  .lineBreak {
+    width: 100%;
+    border: 1px dashed rgba(0, 0, 0, 0.3);
+  }
+}

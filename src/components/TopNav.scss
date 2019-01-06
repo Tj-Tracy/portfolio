@@ -1,0 +1,14 @@
+.TopNav {
+  width: 50%;
+  margin: 0 auto;
+
+  .tabs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    .tab {
+      padding: 10px 30px 10px 30px;
+    }
+  }
+}
